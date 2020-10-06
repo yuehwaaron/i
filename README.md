@@ -1,1 +1,1 @@
-# My Blog images library。
+# My Blog images library.
